@@ -1,0 +1,11 @@
+#map {
+    height: 500px;
+    width: 100%;
+   }
+
+
+   .emoji-icon {
+    font-size: 24px; /* Ajusta el tamaño del emoji */
+    line-height: 1;   /* Evita que el tamaño del contenedor cambie */
+    text-align: center;
+}
